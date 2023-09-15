@@ -18,7 +18,7 @@
 
 
 
-
+![](https://raw.githubusercontent.com/fei3363/ithelp_purple_team/main/day1/day1_news.png)
 
 ## 名詞解釋
 為了避免新手對於名詞上的不足，因此整理一個區塊，先讓新手了解資訊安全中的定義，也希望能讓新手更好地理解文章內容，若有其他名詞不懂也歡迎於文章底下留言：
@@ -76,7 +76,7 @@
 城堡的策略家，也就是紫隊是一個結合了紅隊和藍隊能力的策略性組織或方法，甚至希望可以確保紅隊與藍隊之間的溝通橋樑，兩者結合之後，可以更好評估與提高企業的整體安全能力與狀態。
 
 
-![](https://hackmd.io/_uploads/S1C8BZzJa.png)
+![](https://raw.githubusercontent.com/fei3363/ithelp_purple_team/main/day1/purple_compare.png)
 
 
 
