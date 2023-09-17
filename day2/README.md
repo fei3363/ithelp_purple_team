@@ -1,7 +1,4 @@
-# 紫隊 Day2	
-
-[toc]
-
+![image](https://github.com/fei3363/ithelp_purple_team/assets/82772249/82c77e9b-cd1c-4a74-9d25-5f6cf2717c99)# 紫隊 Day2	
 
 
 ## 前言：假設直接閱讀資安管理的書籍
@@ -14,6 +11,7 @@
 ## 名詞解釋
 為了避免新手對於名詞上的不足，因此整理一個區塊，先讓新手了解資訊安全中的定義，也希望能讓新手更好地理解文章內容，若有其他名詞不懂也歡迎於文章底下留言：
 
+![](https://github.com/fei3363/ithelp_purple_team/blob/main/day2/day2_news.png?raw=true)
 
 - 資產
     - 指企業內部所有有價值的物品，包含物理與虛擬物品
@@ -71,8 +69,7 @@
 
 ## 直接製作管理政策可能會有那些影響
 
-![](https://hackmd.io/_uploads/BJalIY_A2.png)
-
+![](https://github.com/fei3363/ithelp_purple_team/blob/main/day2/Policies_Potential_Impacts.png?raw=true)
 
 ### 無法有效防禦攻擊
 
@@ -91,7 +88,7 @@
 
 ## 以了解攻擊面開始
 
-![](https://hackmd.io/_uploads/SJPVLt_Rn.png)
+![](https://github.com/fei3363/ithelp_purple_team/blob/main/day2/know_attack_process.png?raw=true)
 
 
 
@@ -136,10 +133,15 @@
     - 一間專門提供企業技術研究和顧問服務的權威機構
 
 
+![](https://github.com/fei3363/ithelp_purple_team/blob/main/day2/The-five-stages-in-the-continuous-exposure-management-process-by-gartner.png?raw=true)
+
 
 ## 不知道駭客如何攻擊以及攻擊流程
 
 很多企業可能沒有駭客攻擊的概念，因此會藉由現有的紅隊相關服務，並且以駭客思維的角度，找到企業當中會被攻擊的面向、弱點。
+
+
+![](https://github.com/fei3363/ithelp_purple_team/blob/main/day2/Red_team_service_intr.png?raw=true)
 
 ### 什麼是紅隊
 
